@@ -1,3 +1,5 @@
 The moon is a satellite.
 
 The moon orbits the Earth.
+
+The moon's gravity is lower than the Earth.
