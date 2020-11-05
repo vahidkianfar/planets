@@ -1,7 +1,3 @@
 Mars is a planet.
 
 Mars is red.
-
-Mars is cold.
-
-Mars is in the solar system.
