@@ -1,3 +1,5 @@
 The moon is a satellite.
 
 The moon orbits the Earth.
+
+The moon is not made of cheese.
